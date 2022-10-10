@@ -1,13 +1,9 @@
-## Running React on Repl.it
+# ENS Project UI
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Build your own domain service on a Polygon L2.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+### **Welcome 👋**
+To get started with this project, clone this repo and follow these commands:
 
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+1. Run `npm install` at the root of your directory
+2. Run `yarn dev` to start the project
